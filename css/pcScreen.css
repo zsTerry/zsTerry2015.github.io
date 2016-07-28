@@ -1,0 +1,26 @@
+@media screen and (max-device-width: 1024px) {  
+  #divMain{  
+  float: none;  
+  width:auto;  
+  }  
+  #divSidebar {  
+  display:none;  
+  }
+
+  .body {  
+　　　　font: normal 100% Helvetica, Arial, sans-serif;  
+　　}
+
+  main{
+	padding: 0px 0px 0px 0px;
+	background: url('../images/letter.jpg');
+	background-color: white!important;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+  img { 
+	max-width: 100%;
+	-ms-interpolation-mode: bicubic;
+  }
+} 
